@@ -24,7 +24,7 @@ It is possible to observe that Gemini is not the best tool for working with math
 
 ```bash
    #Clone this project
-    git clone https://github.com/giovanni0800/web-app-jsp.git
+    git clone https://github.com/giovanni0800/gemini-chat
 ```
 
 <br />
